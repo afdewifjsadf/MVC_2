@@ -1,0 +1,3 @@
+thaifood1,menu,kawtom,padthai,padseewi,padkrapow,review,3.0,notrealkawtom,padthaiisthebest,padkrapowistoospicyforme,bad,goodservice
+thaifood2,menu,kawtom,review,4.5,realkawtom,notrealkawtom,realkawtom
+athaifood3,menu,kawtom,review,4.5,realkawtom,notrealkawtom,realkawtom
